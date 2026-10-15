@@ -66,3 +66,8 @@ The Power BI dashboard provides a clear overview of EV adoption patterns includi
 * Add more advanced statistical analysis.
 * Include predictive modeling for EV sales forecasting.
 * Expand dashboard with additional regional insights.
+
+## Author
+
+* **Deepak Kumar** -
+* [GitHub Profile](https://github.com/abacuscells)
