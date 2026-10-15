@@ -69,5 +69,5 @@ The Power BI dashboard provides a clear overview of EV adoption patterns includi
 
 ## Author
 
-* **Deepak Kumar** -
+* **Deepak Kumar**
 * [GitHub Profile](https://github.com/abacuscells)
